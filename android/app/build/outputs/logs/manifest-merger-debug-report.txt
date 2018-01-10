@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [com.facebook.react:react-native:0.51.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/7c2dec9b59637a60f7d6ca6b965be459/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/8d85229daf544bb12ae0d4574605e4a2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/0b59f34993b55ed965b567ba78bea1dd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/bc8e5541c0370b1b5e0ae754b33754c1/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/c0c25c6863c2ce46a5d177bf9923e046/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/ae446885ebce9a2833e72fa9dae95e6e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/91123786935bcee131357ad0f4d27ba1/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4798d1b1d5d1334d3c22aaf0327e3ad1/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/077d5027ca8f5f9cad1609c9e26a5a00/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/7fbc927c0377ac304d35e5a0d97841db/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/9cdced4781bbaea76b38f7bd209a2123/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/e57c18f70ee88f377f43be939a7e631a/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:2:5-23
+		INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.51.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/7c2dec9b59637a60f7d6ca6b965be459/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.51.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/7c2dec9b59637a60f7d6ca6b965be459/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.facebook.react:react-native:0.51.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/7c2dec9b59637a60f7d6ca6b965be459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.51.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/7c2dec9b59637a60f7d6ca6b965be459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/8d85229daf544bb12ae0d4574605e4a2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/8d85229daf544bb12ae0d4574605e4a2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/0b59f34993b55ed965b567ba78bea1dd/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/0b59f34993b55ed965b567ba78bea1dd/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/bc8e5541c0370b1b5e0ae754b33754c1/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/bc8e5541c0370b1b5e0ae754b33754c1/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/c0c25c6863c2ce46a5d177bf9923e046/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/c0c25c6863c2ce46a5d177bf9923e046/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/ae446885ebce9a2833e72fa9dae95e6e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/ae446885ebce9a2833e72fa9dae95e6e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/91123786935bcee131357ad0f4d27ba1/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/91123786935bcee131357ad0f4d27ba1/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/077d5027ca8f5f9cad1609c9e26a5a00/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/077d5027ca8f5f9cad1609c9e26a5a00/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/7fbc927c0377ac304d35e5a0d97841db/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/7fbc927c0377ac304d35e5a0d97841db/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/9cdced4781bbaea76b38f7bd209a2123/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/9cdced4781bbaea76b38f7bd209a2123/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/e57c18f70ee88f377f43be939a7e631a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/e57c18f70ee88f377f43be939a7e631a/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:13:5-30:19
+MERGED from [com.facebook.react:react-native:0.51.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/7c2dec9b59637a60f7d6ca6b965be459/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.51.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/7c2dec9b59637a60f7d6ca6b965be459/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/8d85229daf544bb12ae0d4574605e4a2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/8d85229daf544bb12ae0d4574605e4a2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/0b59f34993b55ed965b567ba78bea1dd/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/0b59f34993b55ed965b567ba78bea1dd/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/91123786935bcee131357ad0f4d27ba1/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/91123786935bcee131357ad0f4d27ba1/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4798d1b1d5d1334d3c22aaf0327e3ad1/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/yokoref/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4798d1b1d5d1334d3c22aaf0327e3ad1/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:icon
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:15:7-33
+	android:theme
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.auth.MainActivity
+ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:20:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:29:7-84
+	android:name
+		ADDED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:29:17-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/yokoref/dev/auth/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

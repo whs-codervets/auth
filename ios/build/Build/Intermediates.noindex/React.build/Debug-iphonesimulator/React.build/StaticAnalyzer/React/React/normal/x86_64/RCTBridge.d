@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTBridge.m \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/yokoref/dev/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/yokoref/dev/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/yokoref/dev/auth/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTJSEnvironment.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/yokoref/dev/auth/node_modules/react-native/React/Base/RCTReloadCommand.h
