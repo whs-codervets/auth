@@ -15,7 +15,7 @@ class App extends Component {
           projectId: 'auth-b92e5',
           storageBucket: 'auth-b92e5.appspot.com',
           messagingSenderId: '277068579330'
-    });
+        });
 
         firebase.auth().onAuthStateChanged((user) => {
           if (user) {
@@ -24,12 +24,22 @@ class App extends Component {
             this.setState({ loggedIn: false });
           }
         });
+      };
+
+      render() {
+        return (
+          <View>
+            <Header headerText="Authentication App" />
+            {this.renderContent()}
+          </View>
+        );
       }
 
       renderContent() {
         switch (this.state.loggedIn) {
           case true:
             return (
+
               <Button onPress={() => firebase.auth().signOut()}>
                 Log Out
               </Button>
@@ -41,14 +51,6 @@ class App extends Component {
         }
       }
 
-      render() {
-        return (
-          <View>
-            <Header headerText="Authentication App" />
-            {this.renderContent()}
-          </View>
-        );
-      }
     }
 
     export default App;

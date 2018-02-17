@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		fS9ErN8dvEx0klyGSnmfLk4y2QA=
+		PunuobiFDXSgRicUgX08b+2XwJY=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -51,7 +51,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LNIHFdxb5PiObYeVGYizjkvJjv4=
+		NDlVpolvr7tPwASbSX5KMziIPkM=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -63,19 +63,19 @@
 		</data>
 		<key>PlugIns/authTests.xctest.dSYM/Contents/Resources/DWARF/authTests</key>
 		<data>
-		dm5N1FVK4WLMjOqA+RREuKkx544=
+		jFjJHZPfLu0Sk3LnmyPJCjNr3w0=
 		</data>
 		<key>PlugIns/authTests.xctest/Info.plist</key>
 		<data>
-		Ie2ZTy/V0E1Q6iWL/wVewm6YCVU=
+		rfQLd5lJst1YUmOIUcXVCIMsAG0=
 		</data>
 		<key>PlugIns/authTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		Bx2ZaSHvSRK4qL9hUYwNhvsttMo=
+		3RAfFS7psIdJS/FDFQ2O50ozsts=
 		</data>
 		<key>PlugIns/authTests.xctest/authTests</key>
 		<data>
-		/NFtoYnrQbFnSL//f6Xxi/UDQHY=
+		zg3JqlWFmfQdfw5epGPIc6uFSMo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fS9ErN8dvEx0klyGSnmfLk4y2QA=
+			PunuobiFDXSgRicUgX08b+2XwJY=
 			</data>
 			<key>hash2</key>
 			<data>
-			qTJWsmEzWg1N/CXamhvfjjcInSGrqKSgYB7hf6fpL5w=
+			As0i8IluoOttmqVITcIu9A7KJH89q9u8qAUxrVzDzKQ=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -207,44 +207,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dm5N1FVK4WLMjOqA+RREuKkx544=
+			jFjJHZPfLu0Sk3LnmyPJCjNr3w0=
 			</data>
 			<key>hash2</key>
 			<data>
-			aWCI5Gy0blyXfHXK/JjW8PGN6vcSwhPNFo3Q8YkmKWM=
+			c1cLa+a3aTEbV756dzkrUqg+Zi3qwY7Sf2FcyZZQp+0=
 			</data>
 		</dict>
 		<key>PlugIns/authTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ie2ZTy/V0E1Q6iWL/wVewm6YCVU=
+			rfQLd5lJst1YUmOIUcXVCIMsAG0=
 			</data>
 			<key>hash2</key>
 			<data>
-			pKyM/mnLiVty6VuPIWcSoAoHIaKoPTb6IzLiMNIimAg=
+			+0WDUHE9JgWAmlcaS5Sj7bSZr/rLIBfhdeURsgW2TuU=
 			</data>
 		</dict>
 		<key>PlugIns/authTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Bx2ZaSHvSRK4qL9hUYwNhvsttMo=
+			3RAfFS7psIdJS/FDFQ2O50ozsts=
 			</data>
 			<key>hash2</key>
 			<data>
-			3i2IMR0AAGOSS/rHTpiNeX7LpGEoF8qoK3EX/KRwp/A=
+			1pZKDcpZWpjYKeOeO93yHlN2q5gNc/yoU46IMMH4PoI=
 			</data>
 		</dict>
 		<key>PlugIns/authTests.xctest/authTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/NFtoYnrQbFnSL//f6Xxi/UDQHY=
+			zg3JqlWFmfQdfw5epGPIc6uFSMo=
 			</data>
 			<key>hash2</key>
 			<data>
-			85x2xXkHf3kXN+/E+u9LaG2bnNuBFc3craORqF40PgQ=
+			v36PJFgqLfxY1nlpCTHtpvCPLHrBZTCIq/qS8IETNc4=
 			</data>
 		</dict>
 	</dict>
